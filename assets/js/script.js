@@ -10,7 +10,7 @@ $("#currentDay").replaceWith(dateText);
 var timeStart = moment().hour(8); //business hour start
 
 //Create time block
-for (let i = 0; i < 15; i++) {
+for (let i = 0; i < 9; i++) {
     const wrapper = $("<div>").addClass('row time-block')
 
     //timeblock

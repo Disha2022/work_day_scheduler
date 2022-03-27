@@ -24,8 +24,12 @@ SO THAT I can manage my time effectively
 2. style.css
 3. script.js
 
+## Code Build Process
+1. Created section in index.html with textarea,button and timeblock.
+2. used console log and the existing sections to create section using JavaScript in Js files
+
 ## Demo
-![Demonstration of the work scheduler.](./assets/work-schedule-demo.gif)
+![Demonstration of the work scheduler.](./assets/images/Work%20Day%20Scheduler.gif)
 
 # References
 
