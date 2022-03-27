@@ -26,7 +26,13 @@ SO THAT I can manage my time effectively
 
 ## Code Build Process
 1. Created section in index.html with textarea,button and timeblock.
-2. used console log and the existing sections to create section using JavaScript in Js files
+2. Used console log and the existing sections to create section using JavaScript in Js files.
+3. Added for loop in js for creating sections for different timeblocks. created timeblocks for business hours.
+4. Used existing css classes for colors and fonts.
+5. Downloaded an svg file to add picture for "save" button
+6. Added if statement to assign different classes for different timestamps(past,present,future).
+7. Added fuction to save "To Do" in local storage.
+8. completed readme to capture the process for building the scheduler.
 
 ## Demo
 ![Demonstration of the work scheduler.](./assets/images/Work%20Day%20Scheduler.gif)
